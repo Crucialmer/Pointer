@@ -17,3 +17,7 @@ python_indicator/.venv/
 *.rs.bk
 Thumbs.db
 desktop.ini
+
+# Binaries
+*.exe
+
